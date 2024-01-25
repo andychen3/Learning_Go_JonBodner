@@ -1,0 +1,1 @@
+This repository is the solutions to the exercises found in the Learning Go Book v2 by Jon Bodner 
